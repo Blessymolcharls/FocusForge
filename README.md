@@ -1,4 +1,4 @@
-﻿# BlessyForge 🔥
+﻿# FocusForge 🔥
 
 A personal productivity and goal-tracking Flutter app designed for **Blessy** — a CS student preparing for IBM placements, GATE exam, coding practice, and college assignments.
 
